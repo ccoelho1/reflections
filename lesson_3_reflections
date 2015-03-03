@@ -6,4 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 because I do not want to put unusable changes in the git hub
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks is copying a file from github you do not have access to modify
+clones is cloning the file to your computer to do whatever you want 
+branches is creating a different path
+
 
